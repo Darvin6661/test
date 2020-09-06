@@ -4,7 +4,7 @@ public class CarManager {
 
 	public static void main(String[] args) {
 
-		Car toyotaPrius1 = new Car("Toyota Prius", 2008, 1500000, 1200, Color.GREEN);
+		Car toyotaPrius1 = new Car("Toyota Prius1", 2008, 1500000, 1200, Color.GREEN);
 
 		Car renauLaguna1 = new Car("Renault Laguna", 2000, 970000, 1600, Color.WHITE);
 
